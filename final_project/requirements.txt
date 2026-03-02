@@ -1,0 +1,5 @@
+matplotlib==3.10.7
+numpy==2.3.5
+opencv_python==4.12.0.88
+skimage==0.0
+ultralytics==8.3.235

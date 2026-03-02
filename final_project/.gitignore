@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor settings
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated outputs
+outputs/images/gui_output.jpg
+outputs/images/output_adaptive.jpg
+outputs/images/output_enhanced.jpg
+outputs/images/eval_input.jpg
+outputs/images/eval_ours.jpg
+outputs/images/eval_he.jpg
+outputs/images/eval_gt.jpg
+outputs/images/exp_baseline_he.jpg
+outputs/images/exp_ours_adaptive.jpg
+outputs/videos/output_video.mp4

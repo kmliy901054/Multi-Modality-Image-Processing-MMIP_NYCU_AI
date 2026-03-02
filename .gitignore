@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Python virtual envs
+.venv/
+venv/
+env/
+
+# Final project generated outputs
+final_project/outputs/images/gui_output.jpg
+final_project/outputs/images/output_adaptive.jpg
+final_project/outputs/images/output_enhanced.jpg
+final_project/outputs/images/eval_input.jpg
+final_project/outputs/images/eval_ours.jpg
+final_project/outputs/images/eval_he.jpg
+final_project/outputs/images/eval_gt.jpg
+final_project/outputs/images/exp_baseline_he.jpg
+final_project/outputs/images/exp_ours_adaptive.jpg
+final_project/outputs/videos/output_video.mp4
