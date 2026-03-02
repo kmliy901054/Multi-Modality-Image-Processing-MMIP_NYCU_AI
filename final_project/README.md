@@ -12,6 +12,12 @@ Low-light enhancement system built with multi-modality fusion (Illumination + St
 - Quantitative evaluation against a reference image (PSNR / SSIM).
 - Experiment mode: fixed HE baseline vs adaptive method.
 
+## Preview
+
+![Final Project Result 1](../img/image1.png)
+
+![Final Project Result 2](../img/image2.png)
+
 ## Project Structure
 
 ```text

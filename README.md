@@ -5,6 +5,12 @@ This repository contains two independent course projects:
 - `final_project/`: Multi-modality low-light image enhancement system (Python, OpenCV, optional YOLO).
 - `HW1/`: Homework 1 implementation (C + raylib, Windows executable included).
 
+## Preview
+
+![Final Project Result 1](img/image1.png)
+
+![Final Project Result 2](img/image2.png)
+
 ## Repository Layout
 
 ```text
@@ -18,6 +24,9 @@ This repository contains two independent course projects:
 |   |-- raylib-5.5_win64_mingw-w64/
 |   |-- main.exe
 |-- README.md
+|-- img/
+|   |-- image1.png
+|   |-- image2.png
 |-- .gitignore
 ```
 
